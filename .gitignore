@@ -1,1 +1,2 @@
-/target
+**/target/
+golang/chip8
